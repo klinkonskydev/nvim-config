@@ -1,0 +1,23 @@
+## Comands:
+- CTRL + l
+ - Split the code
+- CTRL + a
+ - Format with Prettier
+- CTRL + t
+ - Folder menager
+- space + v
+ - New vertical Folder menager
+- CTRL + p
+ - Float terminal
+- CTRL + s
+ - Save changes
+- [ + o
+ - Git Conflict Choose Ours
+- ] + o
+ - Git Conflict Choose Theirs
+- [ + ]
+ - Git Conflict Choose Both
+- space + p
+ - Find file by name
+- space + o
+ - Old files

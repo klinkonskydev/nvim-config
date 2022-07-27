@@ -1,0 +1,12 @@
+require('core/settings')
+require('core/keymaps')
+require('core/plugins')
+
+require('configs/impatient')
+require('configs/colorscheme')
+require('configs/autopairs')
+require('configs/alpha-nvim')
+require('configs/colorizer')
+require('configs/toggleterm')
+require('configs/statusline')
+require('configs/web-devicons')
