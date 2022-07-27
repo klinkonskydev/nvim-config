@@ -1,23 +1,23 @@
 ## Comands:
 - CTRL + l
- - Split the code
+  - Split the code
 - CTRL + a
- - Format with Prettier
+  - Format with Prettier
 - CTRL + t
- - Folder menager
+  - Folder menager
 - space + v
- - New vertical Folder menager
+  - New vertical Folder menager
 - CTRL + p
- - Float terminal
+  - Float terminal
 - CTRL + s
- - Save changes
+  - Save changes
 - [ + o
- - Git Conflict Choose Ours
+  - Git Conflict Choose Ours
 - ] + o
- - Git Conflict Choose Theirs
+  - Git Conflict Choose Theirs
 - [ + ]
- - Git Conflict Choose Both
+  - Git Conflict Choose Both
 - space + p
- - Find file by name
+  - Find file by name
 - space + o
- - Old files
+  - Old files
