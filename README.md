@@ -11,6 +11,8 @@
   - Float terminal
 - CTRL + s
   - Save changes
+- CTRL + y
+  - Accept coc auto complete
 - [ + o
   - Git Conflict Choose Ours
 - ] + o
