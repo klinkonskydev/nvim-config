@@ -22,6 +22,3 @@ keymap("n", "<leader>o", ":Telescope oldfiles<CR>", {})
 
 keymap('n', 'Q', 'q', {})
 keymap('n', 'q', '<nop>', {})
-
--- keymap("i", "<C-o>", "pumvisible() ? coc#_select_confirm() : '<C-G>u<CR><C-R>=coc#on_enter()<CR>'", {silent = true, expr = true, noremap = true})
-vim.cmd([[ inoremap <expr> <C-o> pumvisible() ? "\<C-y>" : "\<C-g>u\<CR>" ]])

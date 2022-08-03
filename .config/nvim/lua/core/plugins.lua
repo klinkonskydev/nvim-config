@@ -12,7 +12,6 @@ return require('packer').startup(function()
 --  use 'windwp/nvim-autopairs'
 --  use 'jparise/vim-graphql'
 --  use 'folke/lsp-colors.nvim'
-
   use 'kyazdani42/nvim-web-devicons'
 
   use 'styled-components/vim-styled-components'
